@@ -43,3 +43,10 @@ The model achieved around 78% accuracy.
 * Improve accuracy using Random Forest
 * Hyperparameter tuning
 * Deploy the model using Streamlit
+
+Key Learnings:
+• Machine learning model building
+• Model evaluation
+• Model deployment using Streamlit
+• Building an interactive ML web interface
+
